@@ -1,7 +1,6 @@
 # React + Vite
 
-[Live-link Click](https://twitter-clone-react-jade.vercel.app/){:target="_blank"}
-
+Live-link  : https://twitter-clone-react-jade.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
