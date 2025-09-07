@@ -219,7 +219,7 @@ function CreatePost() {
     //You can still capture the file via onChange.
     onChange={(e)=>{setFile(e.target.files[0])}} // actual file object/binary data
     ref={fileRef}
-    required
+    required ={isEditMode ? false : true}
   />
           </div>
 
